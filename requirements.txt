@@ -6,3 +6,4 @@ wget
 pillow
 hachoir
 requests
+aiohttp
